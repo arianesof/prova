@@ -15,10 +15,10 @@ int main(){
 	int inicio,termino,situacao;
 	
 	
-	printf("Algoritimo e programacao \t Joyce Siqueira \t Ariane Sofia Pereira de Sousa \n uc22103186\t Analise e desenvolviment de Sistemas \n");	
+	printf("Algoritimo e programacao \t Joyce Siqueira \t Ariane Sofia Pereira de Sousa \t Analise e desenvolviment de Sistemas \n");	
 	printf("https://github.com/arianesof/prova");
 	printf("\n");
-	printf("Selecione uma quest„o  A ou B:");
+	printf("Selecione uma quest√£o  A ou B:");
 	scanf("%s",&opcao);
 	
 	switch(opcao){
@@ -56,9 +56,9 @@ int main(){
 		printf("Digite um ano: "); scanf("%d",&ano);
 		
 		if (verifica(ano) == 1)
-		printf(" %d, o ano È bissexto!",ano);
+		printf(" %d, o ano √© bissexto!",ano);
 		else
-		printf("%d o n„o È ano bissexto!",ano);
+		printf("%d o n√£o √© ano bissexto!",ano);
 		return 0;
 		}
 		int x;
@@ -73,7 +73,7 @@ int main(){
 			switch(situacao){
 				
 				case 1:
-					printf("Obra ConcluÌda\n");
+					printf("Obra Conclu√≠da\n");
 				break;
 				
 				case 2:
