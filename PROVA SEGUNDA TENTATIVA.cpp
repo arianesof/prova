@@ -18,7 +18,7 @@ int main(){
 	printf("Algoritimo e programacao \t Joyce Siqueira \t Ariane Sofia Pereira de Sousa \t Analise e desenvolviment de Sistemas \n");	
 	printf("https://github.com/arianesof/prova");
 	printf("\n");
-	printf("Selecione uma questão  A ou B:");
+	printf("Selecione uma alternativa  A ou B:");
 	scanf("%s",&opcao);
 	
 	switch(opcao){
