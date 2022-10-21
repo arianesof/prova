@@ -70,34 +70,7 @@ int main(){
 		}
 
 
-			switch(situacao){
-				
-				case 1:
-					printf("Obra Concluída\n");
-				break;
-				
-				case 2:
-					printf("Problemas no projeto\n");
-				break;
-				
-				case 3:
-					printf("Atraso nos repasses financeiros\n");
-				break;	
-				
-				case 4:
-					printf("Greve dos trabalhadores\n");
-				break;
-					
-				case 5:
-					printf("Falta de materiais\n");
-				break;
-				
-				case 6:	
-					printf("Falta de equipamentos\n");
-				break;
-			}
-			printf("Tempo de execucao %d",termino - inicio);
-					
+			
 		break;
 	
 	}
